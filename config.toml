@@ -1,0 +1,6 @@
+baseURL = "https://haradashinya.github.io/furodrive/"
+languageCode = "en-us"
+title = "furodrive"
+theme = ["whiteplain-light","whiteplain"]
+canonifyurls = true
+
